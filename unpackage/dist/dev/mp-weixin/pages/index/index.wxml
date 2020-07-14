@@ -1,0 +1,1 @@
+<view class="container"><button type="primary" data-event-opts="{{[['tap',[['handleSelect',['$event']]]]]}}" bindtap="__e">{{"当前定位--"+(selectAddress||curruntAddress)}}</button></view>
